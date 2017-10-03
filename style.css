@@ -1,0 +1,47 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.bordure{
+    height: 10px;
+}
+
+.links{
+
+    background-color: aquamarine;
+}
+
+
+.gmail{
+    float: right;
+    margin-right: 12px;
+}
+.images{
+    float: right;
+    margin-right: 12px;
+}
+.applications{
+    float: right;
+    margin-right: 12px;
+    
+}
+.connexion{
+    float: right;
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-right: 20px;
+    background-color: #4187ED;
+}
+
+footer {
+    height: 40px;
+    background-color: #F2F2F2;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.publicité{
+    
+}
